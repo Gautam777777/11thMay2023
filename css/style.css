@@ -1,0 +1,48 @@
+.g1_row,.g2_row,.g3_row,.g4_row,.g5_row,.g6_row,.g7_row,.g8_row,.g9_row,.g10_row,.g11_row,.g12_row{ 
+    height: 100px;
+    text-align: center;
+    color: #fff;
+    border: 2px solid #000;
+}
+.g1_row div{
+    color: #000 !important;
+}
+.g1_row div,.g2_row div,.g3_row div,.g4_row div,.g5_row div,.g6_row div,.g7_row div,.g8_row div,.g9_row div,.g10_row div,.g11_row div,.g12_row div{
+    background-color: antiquewhite !important;
+    color: #fff;
+    border: 2px solid #000;
+}
+.g2_row div{ 
+    background-color: brown !important;
+}
+.g3_row div{
+    background-color: aqua !important;
+}
+
+.g4_row div{
+    background-color: orange !important;
+}
+.g5_row div{
+   background-color: purple !important;
+}
+.g6_row div{
+   background-color: #333 !important;
+}
+.g7_row div{
+   background-color: pink !important;
+}
+.g8_row div{
+   background-color: yellow !important;
+}
+.g9_row div{
+   background-color: crimson !important;
+}
+.g10_row div{
+   background-color: darkkhaki !important;
+}
+.g11_row div{
+   background-color: rosybrown !important;
+}
+.g12_row div{
+   background-color: slategray !important;
+}
